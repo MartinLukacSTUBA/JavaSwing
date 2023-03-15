@@ -1,6 +1,13 @@
 # Zadanie 2 - Veža v bludisku
 B-OOP 2021
+# Zadanie 2 - zhrnutie zadania
 
+Vytvorte algoritmus, ktorý vytvorí bludisko so stenami.
+Vytvorte hráča, ktorý sa môže pohybovať myšou, tlačidlami alebo klávesnicou.
+Vytvorte cieľovú destináciu, kam sa má hráč dostať.
+Po dosiahnutí cieľa začnite hrať znova a počet výhier si pripíšte.
+
+####
 Vašou úlohou je naprogramovať oknovú aplikáciu v jazyku Java s pomocou knižnice Swing. Používateľské rozhranie aplikácie má pozostávať z:
 
 * canvasu
