@@ -1,4 +1,4 @@
-# Zadanie 2 - Veža v bludisku
+# Zadanie 2 
 B-OOP 2021
 # Zadanie 2 - zhrnutie zadania
 
@@ -7,7 +7,7 @@ Vytvorte hráča, ktorý sa môže pohybovať myšou, tlačidlami alebo klávesn
 Vytvorte cieľovú destináciu, kam sa má hráč dostať.
 Po dosiahnutí cieľa začnite hrať znova a počet výhier si pripíšte.
 
-####
+# Zadanie 2 - Veža v bludisku
 Vašou úlohou je naprogramovať oknovú aplikáciu v jazyku Java s pomocou knižnice Swing. Používateľské rozhranie aplikácie má pozostávať z:
 
 * canvasu
